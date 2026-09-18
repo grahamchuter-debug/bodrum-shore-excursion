@@ -1,1 +1,945 @@
-[]
+[
+  {
+    "date": "2026-07-20",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "09:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2026-07-21",
+    "ship": "AIDAblu",
+    "cruiseLine": "AIDA",
+    "arrival": "10:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-07-21",
+    "ship": "Star Flyer",
+    "cruiseLine": "Star Clippers",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-07-23",
+    "ship": "Mein Schiff 5",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-07-26",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-07-28",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-08-03",
+    "ship": "Seven Seas Splendor",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "07:00",
+    "departure": "16:30",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2026-08-04",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-08-11",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-08-11",
+    "ship": "Star Flyer",
+    "cruiseLine": "Star Clippers",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-08-12",
+    "ship": "AIDAblu",
+    "cruiseLine": "AIDA",
+    "arrival": "07:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2026-08-13",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-08-17",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "09:00",
+    "departure": "23:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2026-08-21",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2026-08-23",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-08-25",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-08-27",
+    "ship": "Mein Schiff 5",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-09-01",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-09-01",
+    "ship": "Star Flyer",
+    "cruiseLine": "Star Clippers",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-09-04",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2026-09-06",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-09-08",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-09-15",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-09-16",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-09-17",
+    "ship": "Crystal Serenity",
+    "cruiseLine": "Crystal Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-09-18",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2026-09-21",
+    "ship": "Europa 2",
+    "cruiseLine": "Hapag Lloyd",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2026-09-22",
+    "ship": "Star Flyer",
+    "cruiseLine": "Star Clippers",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-09-23",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-09-25",
+    "ship": "Aurora",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-09-25",
+    "ship": "Oceania Nautica",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-09-28",
+    "ship": "Oosterdam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-09-29",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-09-30",
+    "ship": "AIDAblu",
+    "cruiseLine": "AIDA",
+    "arrival": "07:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2026-10-04",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-10-05",
+    "ship": "Renaissance",
+    "cruiseLine": "CFC Croisieres",
+    "arrival": "07:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2026-10-09",
+    "ship": "Brilliance Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-10-13",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-10-14",
+    "ship": "Brilliance Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-10-15",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2026-10-19",
+    "ship": "Azamara Onward",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2026-10-23",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "09:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-10-24",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2026-11-01",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-11-01",
+    "ship": "Volendam",
+    "cruiseLine": "Holland America Line",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-04-13",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-04-21",
+    "ship": "Explora II",
+    "cruiseLine": "Explora Journeys",
+    "arrival": "09:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-04-21",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "09:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-04-29",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-05-05",
+    "ship": "AIDAblu",
+    "cruiseLine": "AIDA",
+    "arrival": "07:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2027-05-07",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "09:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-05-20",
+    "ship": "Explora II",
+    "cruiseLine": "Explora Journeys",
+    "arrival": "09:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-05-26",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-05-26",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-06-01",
+    "ship": "Rhapsody Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-06-03",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "11:00",
+    "departure": "23:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-06-07",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-06-08",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-06-15",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-06-22",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-06-22",
+    "ship": "Rhapsody Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-06-23",
+    "ship": "AIDAblu",
+    "cruiseLine": "AIDA",
+    "arrival": "07:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2027-06-28",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-06-29",
+    "ship": "Marella Explorer",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-06-30",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-06-30",
+    "ship": "Star Flyer",
+    "cruiseLine": "Star Clippers",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-07-06",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-07-12",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-07-13",
+    "ship": "Rhapsody Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-07-13",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-07-20",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-07-26",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-07-28",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-08-03",
+    "ship": "Aroya",
+    "cruiseLine": "Aroya Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-08-03",
+    "ship": "Rhapsody Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-08-04",
+    "ship": "AIDAblu",
+    "cruiseLine": "AIDA",
+    "arrival": "07:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2027-08-04",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-08-10",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-08-11",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-08-14",
+    "ship": "Arcadia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-08-24",
+    "ship": "Rhapsody Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-08-25",
+    "ship": "Explora II",
+    "cruiseLine": "Explora Journeys",
+    "arrival": "08:00",
+    "departure": "21:00",
+    "callType": "Port of call",
+    "timeInPort": "13h"
+  },
+  {
+    "date": "2027-08-31",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-09-01",
+    "ship": "Star Flyer",
+    "cruiseLine": "Star Clippers",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-09-12",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-09-14",
+    "ship": "Rhapsody Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-09-20",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "09:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-09-22",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-09-22",
+    "ship": "SeaDream II",
+    "cruiseLine": "SeaDream Yacht Club",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-09-23",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-09-25",
+    "ship": "Seven Seas Mariner",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-09-29",
+    "ship": "Star Flyer",
+    "cruiseLine": "Star Clippers",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-10-05",
+    "ship": "Rhapsody Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-10-06",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-10-13",
+    "ship": "Explora II",
+    "cruiseLine": "Explora Journeys",
+    "arrival": "09:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-10-13",
+    "ship": "Scarlet Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "12h"
+  },
+  {
+    "date": "2027-10-14",
+    "ship": "Star Legend",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "09:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-10-17",
+    "ship": "Oceania Allura",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-10-18",
+    "ship": "Azamara Onward",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  },
+  {
+    "date": "2027-10-19",
+    "ship": "Silver Dawn",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-10-20",
+    "ship": "AIDAblu",
+    "cruiseLine": "AIDA",
+    "arrival": "07:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h 30m"
+  },
+  {
+    "date": "2027-10-25",
+    "ship": "Rhapsody Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-10-27",
+    "ship": "Oceania Insignia",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "07:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-11-01",
+    "ship": "Rhapsody Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-11-17",
+    "ship": "Balmoral",
+    "cruiseLine": "Fred Olsen Cruise Lines",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-11-23",
+    "ship": "Azamara Journey",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "08:00",
+    "departure": "22:00",
+    "callType": "Port of call",
+    "timeInPort": "14h"
+  }
+]

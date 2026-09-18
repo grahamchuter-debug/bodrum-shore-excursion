@@ -1,0 +1,218 @@
+{
+  "port": "bodrum",
+  "year": 2028,
+  "wave": "final-estate-lock",
+  "filterDecision": "HOLD",
+  "filterReason": "validated 6 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+  "total": 23,
+  "path": "HOLD",
+  "calls": [
+    {
+      "date": "2028-03-07",
+      "ship": "Nieuw Statendam",
+      "cruiseLine": "Holland America Line",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-27",
+      "ship": "Oceania Vista",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-10",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "07:30",
+      "departure": "18:00",
+      "timeInPort": "10h 30m",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-10",
+      "ship": "Seabourn Ovation",
+      "cruiseLine": "Seabourn",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-31",
+      "ship": "Scarlet Lady",
+      "cruiseLine": "Virgin Voyages",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-10",
+      "ship": "Queen Victoria",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-13",
+      "ship": "Scarlet Lady",
+      "cruiseLine": "Virgin Voyages",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-14",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "07:30",
+      "departure": "18:00",
+      "timeInPort": "10h 30m",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-25",
+      "ship": "Crystal Grace",
+      "cruiseLine": "Crystal Cruises",
+      "arrival": "08:00",
+      "departure": "22:00",
+      "timeInPort": "14h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-27",
+      "ship": "Azamara Onward",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-06",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "07:30",
+      "departure": "18:00",
+      "timeInPort": "10h 30m",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-20",
+      "ship": "Scarlet Lady",
+      "cruiseLine": "Virgin Voyages",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-20",
+      "ship": "Silver Ray",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "22:00",
+      "timeInPort": "14h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-26",
+      "ship": "SeaDream I",
+      "cruiseLine": "SeaDream Yacht Club",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-27",
+      "ship": "Seven Seas Explorer",
+      "cruiseLine": "Regent Seven Seas Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-11",
+      "ship": "Scarlet Lady",
+      "cruiseLine": "Virgin Voyages",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-18",
+      "ship": "Azamara Onward",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "22:00",
+      "timeInPort": "14h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-26",
+      "ship": "Crystal Serenity",
+      "cruiseLine": "Crystal Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-01",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "07:30",
+      "departure": "18:00",
+      "timeInPort": "10h 30m",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-06",
+      "ship": "Silver Ray",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-08",
+      "ship": "Oceania Marina",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "08:00",
+      "departure": "17:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-22",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-12-18",
+      "ship": "Seven Seas Voyager",
+      "cruiseLine": "Regent Seven Seas Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    }
+  ]
+}
